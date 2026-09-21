@@ -1,6 +1,6 @@
 ---
 
-layout: post title: "真正重要的是真实和自由" subtitle: "After the release of Wechat Mini-Program" author: "Hux" header-img: "img/post-bg-web.jpg" header-mask: 0.4 tags:
+layout: post title: "真正重要的是真实和自由" subtitle: "信仰的实际"  tags:
 
 - 信仰
 - 真实
