@@ -1,22 +1,16 @@
 ---
 layout: post
-title: "Web 在继续离我们远去"
-subtitle: "After the release of Wechat Mini-Program"
-author: "Hux"
+title: "真正重要的是真实和自由"
+subtitle: "信仰的实际和真相"
+author: "sam"
 header-img: "img/post-bg-web.jpg"
 header-mask: 0.4
 tags:
-  - Web
-  - 微信
+  - 信仰
+  - 真实和自由
 ---
 
-layout: post title: "真正重要的是真实和自由" subtitle: "信仰的实际"
-
-- 信仰
-- 真实
-- 自由
-
-  1.不可知的深渊
+1.不可知的深渊
 
 > 罗马书 11:33“深哉，神丰富的智慧和知识！他的判断何其难测！他的踪迹何其难寻！
 >
