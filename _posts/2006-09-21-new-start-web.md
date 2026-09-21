@@ -1,6 +1,6 @@
 ---
 
-layout: post title: "真正重要的是真实和自由" subtitle: "信仰的实际"  tags:
+layout: post title: "真正重要的是真实和自由" subtitle: "信仰的实际"  
 
 - 信仰
 - 真实
@@ -8,7 +8,7 @@ layout: post title: "真正重要的是真实和自由" subtitle: "信仰的实�
 
 ---
 
-## 1.不可知的深渊
+1.不可知的深渊
 
 > 罗马书 11:33“深哉，神丰富的智慧和知识！他的判断何其难测！他的踪迹何其难寻！
 >
